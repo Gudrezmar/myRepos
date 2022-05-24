@@ -5,4 +5,4 @@ und ist über die URL nach dem Schema USERNAME.github.io/REPONAME/DATEINAME erre
 
 In diesem Fall also:
 
-[Link]Gudrezmar/myReps/gh-pages/Seite.md
+[Link](Gudrezmar/myReps/gh-pages/Seite.md)
